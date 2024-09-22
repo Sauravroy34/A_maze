@@ -1,5 +1,5 @@
 # A_maze
-An RL agent that solves mazes using q learning (q tables).
+An RL agent that solves mazes using q learning (q tables) and bellman optimality equation.
 # So get A_MAZE_ed
 # Here is the maze_layout
 ![intiliase](https://github.com/Sauravroy34/A_maze/assets/136881235/4ee12151-4625-434a-af76-24f14461cce9)
